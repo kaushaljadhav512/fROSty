@@ -1,1 +1,1 @@
-### Rough git codes and images for committing to ERC repo
+### This github repo contains images used for the OpenCV tutorial for fROSty - ERC's winter workshop
